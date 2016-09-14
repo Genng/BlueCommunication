@@ -1,1 +1,3 @@
-# BlueCommunication-
+# BlueCommunication
+
+一个客户端 一个服务端 客户端断连，服务端收到断连，自动5秒，等待监听新的客户端...
